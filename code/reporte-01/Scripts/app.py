@@ -1,5 +1,6 @@
 from funciones import *
 from reporte_excel import *
+from reporte_datos import *
 
 nombre_archivo = obtener_nombre_archivo()
 
